@@ -1,4 +1,4 @@
-# Machine Learning A-Z Full Course
+# Machine Learning A-Z™ Hands-On Python & R In Data Science 2019
 
 A brief description of what this project
 
