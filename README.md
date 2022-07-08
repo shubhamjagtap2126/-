@@ -2,6 +2,7 @@
 
 A brief description of what this project
 
+![](https://github.com/shubhamjagtap2126/MachineLearningAtoZFullCourse/blob/personal/Udemy-_Machine_Learning_A-Z%E2%84%A2_Hands-On_Python_%26_R_In_Data_Science.jpg)
 
 ## Features
 
