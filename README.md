@@ -1,4 +1,4 @@
-# Machine Learning A-Z™ Hands-On Python & R In Data Science 2019
+# Machine Learning with Python & R = Data Science
 
 A brief description of what this project
 
